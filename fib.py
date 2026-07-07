@@ -22,5 +22,5 @@ def fib(sequence_num):
             b = c
         return b
 
-num = int(input())
-print(fib(num))
+#num = int(input())
+#print(fib(num))
